@@ -1,0 +1,8 @@
+.rowCheckout {
+    display: flex;
+}
+
+.text-right-checkout {
+    display: flex;
+    justify-content: flex-end;
+}

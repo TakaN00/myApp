@@ -1,0 +1,7 @@
+.shopNavbar-toggle {
+    border-style: none;
+}
+
+.search-active:hover {
+    color: red
+}

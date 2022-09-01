@@ -1,0 +1,22 @@
+.orderList {
+    background-color: #fff;
+    padding: 4vh 5vh;
+    border-radius: 1rem;
+}
+
+.orderList-container{
+    padding-top: 20px;
+    min-height: 5vh;
+}
+
+@media(max-width:768px){
+    .btnCol {
+        display:flex;
+        justify-content: space-around;
+    }
+}
+
+.order-collapse-btn{
+    display:flex;
+    justify-content:center;
+}

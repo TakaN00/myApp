@@ -1,0 +1,16 @@
+.mySwiper {
+    width: 1200px;
+    height: 360px;
+}
+
+  @media(max-width:768px){
+    .mySwiper  {
+        width: 768px;
+      }
+}
+
+@media(max-width:767px){
+    .mySwiper  {
+        width: 320px;
+      }
+}
